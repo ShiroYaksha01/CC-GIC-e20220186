@@ -29,7 +29,8 @@
 
 ![SSH connection](images/05-ssh-connection.png)
 
-Did you connect with your own SSH client or with EC2 Instance Connect?
+### Did you connect with your own SSH client or with EC2 Instance Connect?
+- I connected to the EC2 instance using my own SSH client from Windows with the private `.pem` key.
 
 ---
 
